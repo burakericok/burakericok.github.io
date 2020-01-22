@@ -20,3 +20,15 @@ Let's update the plots to CVPR 2018, as always, using the XKCD style, as describ
 So, general deep-learning keywords are getting out of fashion (we take them for granted), but GANs are no longer such a minority (8\%!). LSTM, on the other hand, cannot keep up. Will GANs catch up with general deep learning?<br />
 <br />
 Are GANs the new Deep?
+
+<br />
+asdasdasdasdasd
+<HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  
+  <img align="middle" width="500" src="{{ site.url }}/images/research/testAnimated.gif" alt="...">
+</BODY>
+</HTML>
+  
+  
