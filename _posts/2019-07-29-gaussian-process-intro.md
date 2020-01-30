@@ -115,3 +115,40 @@ asdasdasdasdasd
 </BODY>
 </HTML>
     
+## No rattler - two rattlers
+<HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_1_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_2_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_3_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_5_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_6_10.gif" alt="...">  
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_8_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_9_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_11_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_12_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_14_10.gif" alt="...">   
+</BODY>
+</HTML>
+
+## one rattler - one rattler
+<HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_4_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_4_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_7_13.gif" alt="...">  
+</BODY>
+</HTML>
+    
+    
+## one rattler - two rattlers
+<HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_4_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_7_10.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_13_10.gif" alt="...">  
+</BODY>
+</HTML>    
