@@ -12,5 +12,4 @@ I'm a PhD student in Materials Science and Engineering at University of Californ
 <br />
 Previously, I was in Prof. Erturk's group at Bogazici University, Turkey, where we studied numerical characterization of nanoparticle aggregates using Bayesian statistical approaches. 
 
-<br />
-I am a mechanical engineer trying to be a materials scientist :)
+
