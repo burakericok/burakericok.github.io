@@ -75,8 +75,43 @@ asdasdasdasdasd
   <img align="middle" width="500" src="{{ site.url }}/images/research/zts_11_12.gif" alt="...">
   <img align="middle" width="500" src="{{ site.url }}/images/research/zts_11_14.gif" alt="...">
   <img align="middle" width="500" src="{{ site.url }}/images/research/zts_12_14.gif" alt="...">      
-  
 </BODY>
 </HTML>
   
-  
+## No rattler - one rattler
+<HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_1_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_1_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_1_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_2_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_2_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_2_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_3_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_3_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_3_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_5_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_5_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_5_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_6_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_6_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_6_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_8_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_8_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_8_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_9_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_9_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_9_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_11_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_11_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_11_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_12_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_12_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_12_13.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_14_4.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_14_7.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_14_13.gif" alt="...">  
+</BODY>
+</HTML>
+    
