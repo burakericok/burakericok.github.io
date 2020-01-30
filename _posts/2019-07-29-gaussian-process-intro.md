@@ -21,13 +21,16 @@ So, general deep-learning keywords are getting out of fashion (we take them for 
 <br />
 Are GANs the new Deep?
 
+
+asdasdadsad
+
 <br />
 asdasdasdasdasd
 <HTML>
 <HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
 <BODY>
-  
-  <img align="middle" width="500" src="{{ site.url }}/images/research/testAnimated.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_1_2.gif" alt="...">
+  <img align="middle" width="500" src="{{ site.url }}/images/research/zts_1_3.gif" alt="...">
 </BODY>
 </HTML>
   
