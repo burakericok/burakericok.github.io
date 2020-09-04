@@ -6,3 +6,7 @@ comments: true
 ---
 
 I passed my qualifying exam on April 1, 2020. Now, it is time to get back to the research once again :)
+
+<head>
+               <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
